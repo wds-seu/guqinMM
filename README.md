@@ -53,6 +53,10 @@ We mainly use python and here we list some baseline and python with a gpu enviro
 * python 3.10
 * pytorch
 
+```commandline
+pip install -r requirements.txt
+```
+
 ### Baseline
 #### Jianzipu OCR
 1. JZP notation: We use 五声琴谱 for our ocr dataset. The dataset made by [Suzi AI](https://github.com/SuziAI/gui-tools/tree/main). The SuziAI is a tool for notation. Please follow the gui-tool tutorial to make sure you can do the notation work.
@@ -65,9 +69,9 @@ We mainly use python and here we list some baseline and python with a gpu enviro
 #### Guqin music generation
 Guqin music generation system is aim to generate music from JZP document. Since the JZP notation doesn't include some music features, we need train our model with both document and music. The datasets includes two parts: the music parts are collected from Guqin exam videos and online video resources, the sequence parts are collected from our JZP OCR parts.
 
-0. basic sound generation model: VAE, VQVAE, Diffusion, Sound Stream... 
-1. Symbolic Music Generation: [Muzic]()
-2. Music generation from text: [MusicLM]()
+0. basic sound generation model: [VAE](https://github.com/AntixK/PyTorch-VAE), VQVAE, [Diffusion](https://github.com/CompVis/stable-diffusion), [Sound Stream](https://github.com/wesbz/SoundStream)... 
+1. Symbolic Music Generation: [Muzic](https://github.com/microsoft/muzic/tree/mainhttps://github.com/microsoft/muzic/tree/main)
+2. Music generation from text: [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
 
 
 <!--Todo List -->
