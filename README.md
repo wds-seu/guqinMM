@@ -58,6 +58,7 @@ pip install -r requirements.txt
 ```
 
 ### Baseline
+
 #### Jianzipu OCR
 1. JZP notation: We use 五声琴谱 for our ocr dataset. The dataset made by [Suzi AI](https://github.com/SuziAI/gui-tools/tree/main). The SuziAI is a tool for notation. Please follow the gui-tool tutorial to make sure you can do the notation work.
 2. JZP recognition: The JZP recognition model is trained with folloing method. In order to know which one is better, we need to evaluate the folloing method on our data. 
@@ -65,6 +66,15 @@ pip install -r requirements.txt
 * [FudanOCR](https://github.com/FudanVI/FudanOCR/)
 * [Japanese OCR]()
 3. Basic NLP Method: Transformer series model.
+
+#### Gui-tools for JZP tutorial
+1. To strart the annotation tool, first switch the composer button to **jianzipu** button and use **open** to open a jianzipu image folder. 
+2. Press **Auto-Segmentation** button to get the annotation boxes from picture. And press **Music(ind.)** to annotate the Jianzi Character. 
+![guqin picture](images/mainwindow.png "mainwindow.png")
+3. Follow the video to annotate the JZP character. （images/tutorial.mp4）
+   
+![guqin picture](images/guqinplugin.png "plugin.png")
+5. After finished annotation, we will soon developed a json-string tool to get the description of Jianzi character. The tool is in developing, to be continued...
 
 #### Guqin music generation
 Guqin music generation system is aim to generate music from JZP document. Since the JZP notation doesn't include some music features, we need train our model with both document and music. The datasets includes two parts: the music parts are collected from Guqin exam videos and online video resources, the sequence parts are collected from our JZP OCR parts.
