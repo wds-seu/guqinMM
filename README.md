@@ -71,13 +71,10 @@ pip install -r requirements.txt
 1. To strart the annotation tool, first switch the composer button to **jianzipu** button and use **open** to open a jianzipu image folder. 
 2. Press **Auto-Segmentation** button to get the annotation boxes from picture. And press **Music(ind.)** to annotate the Jianzi Character. 
 ![guqin picture](images/mainwindow.png "mainwindow.png")
-3. Follow the video to annotate the JZP character. 
-<video width="320" height="240" controls>
-    <source src="images/tutorial.mp4" type="video/mp4">
-</video>
-
+3. Follow the video to annotate the JZP character. （images/tutorial.mp4）
+   
 ![guqin picture](images/guqinplugin.png "plugin.png")
-4. After finished annotation, we will soon developed a json-string tool to get the description of Jianzi character. The tool is in developing, to be continued...
+5. After finished annotation, we will soon developed a json-string tool to get the description of Jianzi character. The tool is in developing, to be continued...
 
 #### Guqin music generation
 Guqin music generation system is aim to generate music from JZP document. Since the JZP notation doesn't include some music features, we need train our model with both document and music. The datasets includes two parts: the music parts are collected from Guqin exam videos and online video resources, the sequence parts are collected from our JZP OCR parts.
