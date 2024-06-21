@@ -71,7 +71,8 @@ pip install -r requirements.txt
 1. To strart the annotation tool, first switch the composer button to **jianzipu** button and use **open** to open a jianzipu image folder. 
 2. Press **Auto-Segmentation** button to get the annotation boxes from picture. And press **Music(ind.)** to annotate the Jianzi Character. 
 ![guqin picture](images/mainwindow.png "mainwindow.png")
-3. Follow the video to annotate the JZP character. 
+3. Follow the video to annotate the JZP character.
+
 <video width="320" height="240" controls>
     <source src="images/tutorial.mp4" type="video/mp4">
 </video>
