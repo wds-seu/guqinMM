@@ -33,17 +33,26 @@ def parse_full_jianzipu(content):
     return result
 
 result_strings = []
+image_paths = []
 for item in data:
     type_ = item["type"]
+    image_path = item["image_path"]
     annotation = item["annotation"]
     annotation_str = parse_annotation(annotation)
-    
+    path_string = f"{image_path}"
+    image_paths.append(image_path)
     result_string = f"{type_} {annotation_str}"
     result_strings.append(result_string)
 
 # 拼接结果字符串
+
+path_result = "\n".join(image_paths)
+print(path_result)
 final_result = "\n".join(result_strings)
 print(final_result)
+
+
+
 
 
 
