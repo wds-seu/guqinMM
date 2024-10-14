@@ -67,6 +67,11 @@ pip install -r requirements.txt
 * [Japanese OCR]()
 3. Basic NLP Method: Transformer series model.
 
+### Jianzipu_dataset
+We have published a jianzipu dataset in `datasets` folder. This dataset includes basic jianzipu finger technique collection and a jianzi character collection.  It is a image-notation dataset. Each image has its own decomposed tree notation. We proposed a new jianzi character decomposed tree to help us on the next Jianzipu OCR method. 
+
+
+
 #### Gui-tools for JZP tutorial
 1. To strart the annotation tool, first switch the composer button to **jianzipu** button and use **open** to open a jianzipu image folder. 
 2. Press **Auto-Segmentation** button to get the annotation boxes from picture. And press **Music(ind.)** to annotate the Jianzi Character. 
@@ -75,6 +80,8 @@ pip install -r requirements.txt
    
 ![guqin picture](images/guqinplugin.png "plugin.png")
 5. After finished annotation, we will soon developed a json-string tool to get the description of Jianzi character. The tool is in developing, to be continued...
+
+
 
 #### Guqin music generation
 Guqin music generation system is aim to generate music from JZP document. Since the JZP notation doesn't include some music features, we need train our model with both document and music. The datasets includes two parts: the music parts are collected from Guqin exam videos and online video resources, the sequence parts are collected from our JZP OCR parts.
@@ -120,7 +127,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Zheng Youcheng - 220226411@seu.edu.cn
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/AkunaMTT/guqinMM](https://github.com/AkunaMTT/guqinMM)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
