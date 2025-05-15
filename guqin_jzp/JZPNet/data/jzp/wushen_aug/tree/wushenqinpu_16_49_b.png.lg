@@ -1,0 +1,13 @@
+O,⿱^2,⿱,O
+O,⿹^3,⿹,OA
+O,RIGHT_GOU^4,RIGHT_GOU,OARus
+O,O_JIAN^5,O_JIAN,OAI
+O,⿹^6,⿹,OB
+O,RIGHT_GOU^7,RIGHT_GOU,OBRus
+O,5^8,5,OBI
+R,⿱^2,⿹^3,Above
+R,⿹^3,RIGHT_GOU^4,Right_up_surround
+R,⿹^3,O_JIAN^5,Inside
+R,⿱^2,⿹^6,Below
+R,⿹^6,RIGHT_GOU^7,Right_up_surround
+R,⿹^6,5^8,Inside

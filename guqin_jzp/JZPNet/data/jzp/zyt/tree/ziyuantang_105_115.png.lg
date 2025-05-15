@@ -1,0 +1,17 @@
+O,⿱^2,⿱,O
+O,⿰^3,⿰,OA
+O,LEFT_FINGER_MING^4,LEFT_FINGER_MING,OAL
+O,LEFT_CHUO^5,LEFT_CHUO,OAR
+O,⿰^6,⿰,OB
+O,LEFT_ZHU^7,LEFT_ZHU,OBL
+O,⿺^8,⿺,OBR
+O,RIGHT_TIAO^9,RIGHT_TIAO,OBRRds
+O,4^10,4,OBRI
+R,⿱^2,⿰^3,Above
+R,⿰^3,LEFT_FINGER_MING^4,Left
+R,⿰^3,LEFT_CHUO^5,Right
+R,⿱^2,⿰^6,Below
+R,⿰^6,LEFT_ZHU^7,Left
+R,⿰^6,⿺^8,Right
+R,⿺^8,RIGHT_TIAO^9,Left_down_surround
+R,⿺^8,4^10,Inside

@@ -1,0 +1,5 @@
+O,⿱^2,⿱,O
+O,RIGHT_MO^3,RIGHT_MO,OA
+O,5^4,5,OB
+R,⿱^2,RIGHT_MO^3,Above
+R,⿱^2,5^4,Below

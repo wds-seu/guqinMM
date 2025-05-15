@@ -1,0 +1,9 @@
+O,⿰^2,⿰,O
+O,LEFT_ZHU^3,LEFT_ZHU,OL
+O,⿹^4,⿹,OR
+O,RIGHT_GOU^5,RIGHT_GOU,ORRus
+O,5^6,5,ORI
+R,⿰^2,LEFT_ZHU^3,Left
+R,⿰^2,⿹^4,Right
+R,⿹^4,RIGHT_GOU^5,Right_up_surround
+R,⿹^4,5^6,Inside

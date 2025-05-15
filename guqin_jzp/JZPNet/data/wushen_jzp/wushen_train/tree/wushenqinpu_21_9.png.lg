@@ -1,0 +1,5 @@
+O,⿱^2,⿱,O
+O,LEFT_CHUO^3,LEFT_CHUO,OA
+O,5^4,5,OB
+R,⿱^2,LEFT_CHUO^3,Above
+R,⿱^2,5^4,Below

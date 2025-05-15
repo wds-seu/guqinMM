@@ -1,0 +1,7 @@
+O,⿳^2,⿳,O
+O,9^3,9,OA
+O,RIGHT_GUN^4,RIGHT_GUN,OM
+O,5^5,5,OB
+R,⿳^2,9^3,Above
+R,⿳^2,RIGHT_GUN^4,Middle
+R,⿳^2,5^5,Below

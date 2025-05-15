@@ -1,0 +1,110 @@
+id	text	w	h
+zyt_qingpu/Music/images/ziyuantang_104_0.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '8', '⿹', 'RIGHT_GOU', '1']	41	39
+zyt_qingpu/Music/images/ziyuantang_104_3.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TUO', '6']	41	43
+zyt_qingpu/Music/images/ziyuantang_104_4.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '8', '⿹', 'RIGHT_GOU', '1']	33	36
+zyt_qingpu/Music/images/ziyuantang_104_6.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '7', '⿹', 'RIGHT_GOU', '2']	47	43
+zyt_qingpu/Music/images/ziyuantang_104_9.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '⿱', '6', '4', '⿰', 'LEFT_ZHU', '⿺', 'RIGHT_TIAO', '2']	45	41
+zyt_qingpu/Music/images/ziyuantang_104_12.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '7', '⿹', 'RIGHT_GOU', '1']	46	38
+zyt_qingpu/Music/images/ziyuantang_104_13.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TUO', '6']	47	38
+zyt_qingpu/Music/images/ziyuantang_104_14.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '2']	43	41
+zyt_qingpu/Music/images/ziyuantang_104_16.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿹', 'RIGHT_GOU', '3']	42	40
+zyt_qingpu/Music/images/ziyuantang_104_17.png	['Music', '⿱', 'LEFT_CHUO', '⿺', 'RIGHT_TIAO', '4']	37	40
+zyt_qingpu/Music/images/ziyuantang_104_19.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '8', '⿺', 'RIGHT_TIAO', '⿱', 'LEFT_WAI', '3']	43	45
+zyt_qingpu/Music/images/ziyuantang_104_21.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', 'TECHNIQUE_FAN_QI']	35	34
+zyt_qingpu/Music/images/ziyuantang_104_22.png	['Music', '⿱', 'LEFT_JIU', '⿹', 'RIGHT_GOU', '2']	43	38
+zyt_qingpu/Music/images/ziyuantang_104_23.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '5']	36	39
+zyt_qingpu/Music/images/ziyuantang_104_24.png	['Music', '⿺', 'RIGHT_TUO', '6']	42	37
+zyt_qingpu/Music/images/ziyuantang_104_25.png	['Music', '⿹', 'RIGHT_GOU', '1']	38	47
+zyt_qingpu/Music/images/ziyuantang_104_26.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '8', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '4']	38	38
+zyt_qingpu/Music/images/ziyuantang_104_28.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '⿱', '7', '6', '⿹', 'RIGHT_GOU', '5']	43	43
+zyt_qingpu/Music/images/ziyuantang_104_29.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '⿱', '7', '9', '⿰', 'LEFT_ZHU', '⿺', 'RIGHT_TIAO', '6']	38	41
+zyt_qingpu/Music/images/ziyuantang_104_31.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '7', '⿺', 'RIGHT_TIAO', '5']	38	33
+zyt_qingpu/Music/images/ziyuantang_104_36.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '2']	36	40
+zyt_qingpu/Music/images/ziyuantang_104_38.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿹', 'RIGHT_GOU', '3']	39	45
+zyt_qingpu/Music/images/ziyuantang_104_40.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '8', '⿺', 'RIGHT_TIAO', '4']	32	41
+zyt_qingpu/Music/images/ziyuantang_104_42.png	['Music', '⿱', 'LEFT_CHUO', '⿺', 'RIGHT_TIAO', '3']	35	40
+zyt_qingpu/Music/images/ziyuantang_104_44.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', 'TECHNIQUE_FAN_QI']	42	41
+zyt_qingpu/Music/images/ziyuantang_104_45.png	['Music', '⿱', 'LEFT_JIU', '⿺', 'RIGHT_TIAO', '2']	38	40
+zyt_qingpu/Music/images/ziyuantang_104_47.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '9', '⿹', 'RIGHT_GOU', '1']	32	42
+zyt_qingpu/Music/images/ziyuantang_104_49.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '⿱', '10', '1', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_TI', '1']	43	43
+zyt_qingpu/Music/images/ziyuantang_104_51.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', '⿹', 'RIGHT_GOU', '2']	44	41
+zyt_qingpu/Music/images/ziyuantang_104_54.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TUO', '6']	41	37
+zyt_qingpu/Music/images/ziyuantang_104_57.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿸', 'RIGHT_LI', '⿱', '5', '4']	38	35
+zyt_qingpu/Music/images/ziyuantang_104_60.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_CHUO', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_TI', '1']	47	40
+zyt_qingpu/Music/images/ziyuantang_104_62.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_WAI', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '2']	37	39
+zyt_qingpu/Music/images/ziyuantang_104_64.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '⿱', '10', '8', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '3']	37	38
+zyt_qingpu/Music/images/ziyuantang_104_66.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '10', '⿹', 'RIGHT_GOU', '4']	40	40
+zyt_qingpu/Music/images/ziyuantang_104_67.png	['Music', '⿱', 'LEFT_CHUO', '⿺', 'RIGHT_TIAO', '5']	35	41
+zyt_qingpu/Music/images/ziyuantang_104_69.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿺', 'RIGHT_TIAO', '4']	48	43
+zyt_qingpu/Music/images/ziyuantang_104_71.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', 'TECHNIQUE_FAN_QI']	34	45
+zyt_qingpu/Music/images/ziyuantang_104_72.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '⿱', '10', '8', '⿰', 'LEFT_ZHU', '⿺', 'RIGHT_TIAO', '3']	36	40
+zyt_qingpu/Music/images/ziyuantang_104_74.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '⿱', '10', '1', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '1']	35	37
+zyt_qingpu/Music/images/ziyuantang_104_77.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '4']	42	42
+zyt_qingpu/Music/images/ziyuantang_104_78.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿹', 'RIGHT_GOU', '3']	40	43
+zyt_qingpu/Music/images/ziyuantang_104_80.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '8', '⿺', 'RIGHT_TIAO', '4']	44	43
+zyt_qingpu/Music/images/ziyuantang_104_82.png	['Music', '⿱', 'LEFT_CHUO', '⿺', 'RIGHT_TIAO', '3']	43	46
+zyt_qingpu/Music/images/ziyuantang_104_84.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', 'TECHNIQUE_FAN_QI']	36	44
+zyt_qingpu/Music/images/ziyuantang_104_85.png	['Music', '⿱', 'LEFT_JIU', '⿹', 'RIGHT_GOU', '2']	43	39
+zyt_qingpu/Music/images/ziyuantang_104_86.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '8', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '4']	42	40
+zyt_qingpu/Music/images/ziyuantang_104_88.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '7', '⿺', 'RIGHT_TIAO', '5']	46	40
+zyt_qingpu/Music/images/ziyuantang_104_90.png	['Music', '⿹', 'RIGHT_GOU', '4']	37	40
+zyt_qingpu/Music/images/ziyuantang_104_91.png	['Music', '⿹', 'RIGHT_GOU', '5']	38	38
+zyt_qingpu/Music/images/ziyuantang_104_93.png	['Music', '⿺', 'RIGHT_TIAO', '6']	38	45
+zyt_qingpu/Music/images/ziyuantang_104_96.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '1']	39	35
+zyt_qingpu/Music/images/ziyuantang_105_1.png	['Music', '⿺', 'RIGHT_TIAO', '5']	47	44
+zyt_qingpu/Music/images/ziyuantang_105_3.png	['Music', '⿹', 'RIGHT_GOU', '4']	44	43
+zyt_qingpu/Music/images/ziyuantang_105_5.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', 'LEFT_QIAQI']	37	40
+zyt_qingpu/Music/images/ziyuantang_105_12.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿹', 'RIGHT_GOU', '5']	42	41
+zyt_qingpu/Music/images/ziyuantang_105_15.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '⿱', '7', '6', '⿰', 'LEFT_ZHU', '⿺', 'RIGHT_TIAO', '5']	48	42
+zyt_qingpu/Music/images/ziyuantang_105_19.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', 'LEFT_QIAQI']	33	46
+zyt_qingpu/Music/images/ziyuantang_105_20.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '⿱', '10', '8', '⿰', 'LEFT_ZHU', '⿺', 'RIGHT_TIAO', '3']	45	42
+zyt_qingpu/Music/images/ziyuantang_105_23.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '1']	39	40
+zyt_qingpu/Music/images/ziyuantang_105_24.png	['Music', '⿺', 'RIGHT_TUO', '6']	40	37
+zyt_qingpu/Music/images/ziyuantang_105_25.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '10', '⿹', 'RIGHT_GOU', '2']	40	43
+zyt_qingpu/Music/images/ziyuantang_105_26.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '⿱', '10', '8', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '3']	36	35
+zyt_qingpu/Music/images/ziyuantang_105_30.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '⿱', '10', '8', '⿰', 'LEFT_ZHU', '⿱', 'RIGHT_MO', '⿺', 'RIGHT_TIAO', '3']	41	44
+zyt_qingpu/Music/images/ziyuantang_105_32.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_CHUO', 'LEFT_QIAQI']	41	38
+zyt_qingpu/Music/images/ziyuantang_105_33.png	['Music', '⿰', 'LEFT_ZHU', '⿺', 'RIGHT_TIAO', '2']	41	39
+zyt_qingpu/Music/images/ziyuantang_105_35.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '1']	43	40
+zyt_qingpu/Music/images/ziyuantang_105_38.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_CHUO', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '2']	43	44
+zyt_qingpu/Music/images/ziyuantang_105_41.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '⿱', '10', '8', '⿰', 'LEFT_ZHU', '⿺', 'RIGHT_TIAO', '3']	47	43
+zyt_qingpu/Music/images/ziyuantang_105_43.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '10', '⿹', 'RIGHT_GOU', '2']	44	41
+zyt_qingpu/Music/images/ziyuantang_105_44.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '⿱', '10', '8', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '3']	47	45
+zyt_qingpu/Music/images/ziyuantang_105_45.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '⿱', '10', 'LEFT_WAI', '⿹', 'RIGHT_GOU', '4']	36	39
+zyt_qingpu/Music/images/ziyuantang_105_48.png	['Music', '⿳', '⿰', 'LEFT_FINGER_DA', '9', 'LEFT_CHUO', '⿺', 'RIGHT_TIAO', '6']	42	38
+zyt_qingpu/Music/images/ziyuantang_105_50.png	['Music', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '5']	34	41
+zyt_qingpu/Music/images/ziyuantang_105_52.png	['Music', '⿱', 'LEFT_CHUO', '⿹', 'RIGHT_GOU', '6']	43	37
+zyt_qingpu/Music/images/ziyuantang_105_54.png	['Music', '⿳', '⿰', 'LEFT_FINGER_DA', '⿱', '7', '6', 'LEFT_CHUO', '⿺', 'RIGHT_TIAO', '7']	42	41
+zyt_qingpu/Music/images/ziyuantang_105_56.png	['Music', '⿳', '⿰', 'LEFT_FINGER_DA', '7', 'LEFT_CHUO', '⿹', 'RIGHT_GOU', '6']	38	43
+zyt_qingpu/Music/images/ziyuantang_105_58.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '⿱', '5', '6', '⿺', 'RIGHT_TIAO', '7']	36	39
+zyt_qingpu/Music/images/ziyuantang_105_63.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '7', 'LEFT_QIAQI']	36	38
+zyt_qingpu/Music/images/ziyuantang_105_66.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '7', '⿺', 'RIGHT_TIAO', '7']	37	41
+zyt_qingpu/Music/images/ziyuantang_105_68.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '7', '⿰', 'LEFT_ZHU', '⿺', 'RIGHT_TIAO', '6']	46	40
+zyt_qingpu/Music/images/ziyuantang_105_69.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '8', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '4']	38	40
+zyt_qingpu/Music/images/ziyuantang_105_72.png	['Music', '⿱', 'RIGHT_MO', '⿺', 'RIGHT_TIAO', '5']	44	43
+zyt_qingpu/Music/images/ziyuantang_105_74.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '8', '⿰', 'LEFT_ZHU', '⿺', 'RIGHT_TIAO', '4']	37	37
+zyt_qingpu/Music/images/ziyuantang_105_76.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', 'LEFT_QIAQI']	41	44
+zyt_qingpu/Music/images/ziyuantang_105_79.png	['Music', '⿱', 'LEFT_JIU', '⿹', 'RIGHT_GOU', '4']	41	39
+zyt_qingpu/Music/images/ziyuantang_105_81.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '⿱', '7', '6', '⿺', 'RIGHT_TIAO', '5']	40	41
+zyt_qingpu/Music/images/ziyuantang_105_85.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '2']	35	36
+zyt_qingpu/Music/images/ziyuantang_105_87.png	['Music', '⿳', '⿰', 'LEFT_FINGER_DA', '9', 'LEFT_CHUO', '⿹', 'RIGHT_GOU', '3']	42	53
+zyt_qingpu/Music/images/ziyuantang_105_88.png	['Music', '⿱', 'RIGHT_MO', '⿺', 'RIGHT_TIAO', '4']	35	35
+zyt_qingpu/Music/images/ziyuantang_105_90.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '⿱', '10', '1', 'LEFT_QIAQI']	35	43
+zyt_qingpu/Music/images/ziyuantang_105_91.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '1']	35	42
+zyt_qingpu/Music/images/ziyuantang_105_92.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿺', 'RIGHT_TIAO', '4']	37	38
+zyt_qingpu/Music/images/ziyuantang_105_103.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', 'LEFT_QIAQI']	43	38
+zyt_qingpu/Music/images/ziyuantang_105_106.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '6']	46	35
+zyt_qingpu/Music/images/ziyuantang_105_108.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '4']	34	41
+zyt_qingpu/Music/images/ziyuantang_105_110.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_CHUO', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '2']	39	44
+zyt_qingpu/Music/images/ziyuantang_105_112.png	['Music', '⿹', 'RIGHT_GOU', '3']	38	39
+zyt_qingpu/Music/images/ziyuantang_105_113.png	['Music', '⿹', 'RIGHT_GOU', '4']	32	35
+zyt_qingpu/Music/images/ziyuantang_105_115.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_CHUO', '⿰', 'LEFT_ZHU', '⿺', 'RIGHT_TIAO', '4']	44	39
+zyt_qingpu/Music/images/ziyuantang_105_117.png	['Music', '⿱', 'LEFT_CHUO', '⿺', 'RIGHT_TIAO', '3']	39	41
+zyt_qingpu/Music/images/ziyuantang_105_118.png	['Music', '⿰', 'LEFT_ZHU', '⿺', 'RIGHT_TIAO', '2']	47	36
+zyt_qingpu/Music/images/ziyuantang_105_120.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '1']	38	43
+zyt_qingpu/Music/images/ziyuantang_105_123.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_CHUO', '⿹', 'RIGHT_GOU', '2']	40	35
+zyt_qingpu/Music/images/ziyuantang_105_125.png	['Music', '⿺', 'RIGHT_TIAO', '4']	40	37
+zyt_qingpu/Music/images/ziyuantang_105_127.png	['Music', '⿱', 'LEFT_CHUO', '⿹', 'RIGHT_GOU', '3']	42	42
+zyt_qingpu/Music/images/ziyuantang_105_128.png	['Music', '⿹', 'RIGHT_GOU', '4']	34	45
+zyt_qingpu/Music/images/ziyuantang_105_129.png	['Music', '⿳', '⿰', 'LEFT_FINGER_MING', '⿱', '10', '2', 'LEFT_CHUO', '⿹', 'RIGHT_GOU', '5']	43	41
+zyt_qingpu/Music/images/ziyuantang_105_131.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_CHUO', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '6']	50	41

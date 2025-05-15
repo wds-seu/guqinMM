@@ -1,0 +1,7 @@
+O,⿲^2,⿲,O
+O,^3,,OL
+O,^4,,OM
+O,^5,,OR
+R,⿲^2,^3,Left
+R,⿲^2,^4,Middle
+R,⿲^2,^5,Right

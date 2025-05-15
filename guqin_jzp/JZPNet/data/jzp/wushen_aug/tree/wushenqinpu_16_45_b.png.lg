@@ -1,0 +1,15 @@
+O,⿳^2,⿳,O
+O,⿰^3,⿰,OA
+O,6^4,6,OAL
+O,5^5,5,OAR
+O,RIGHT_MO^6,RIGHT_MO,OM
+O,⿺^7,⿺,OB
+O,RIGHT_TIAO^8,RIGHT_TIAO,OBRds
+O,5^9,5,OBI
+R,⿳^2,⿰^3,Above
+R,⿰^3,6^4,Left
+R,⿰^3,5^5,Right
+R,⿳^2,RIGHT_MO^6,Middle
+R,⿳^2,⿺^7,Below
+R,⿺^7,RIGHT_TIAO^8,Left_down_surround
+R,⿺^7,5^9,Inside

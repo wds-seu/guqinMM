@@ -1,0 +1,9 @@
+O,⿱^2,⿱,O
+O,TECHNIQUE_SAN_YIN^3,TECHNIQUE_SAN_YIN,OA
+O,⿹^4,⿹,OB
+O,RIGHT_DA^5,RIGHT_DA,OBRus
+O,4^6,4,OBI
+R,⿱^2,TECHNIQUE_SAN_YIN^3,Above
+R,⿱^2,⿹^4,Below
+R,⿹^4,RIGHT_DA^5,Right_up_surround
+R,⿹^4,4^6,Inside

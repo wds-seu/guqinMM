@@ -1,0 +1,13 @@
+O,⿰^2,⿰,O
+O,LEFT_ZHU^3,LEFT_ZHU,OL
+O,⿱^4,⿱,OR
+O,O_JIAN^5,O_JIAN,ORA
+O,⿹^6,⿹,ORB
+O,RIGHT_GOU^7,RIGHT_GOU,ORBRus
+O,5^8,5,ORBI
+R,⿰^2,LEFT_ZHU^3,Left
+R,⿰^2,⿱^4,Right
+R,⿱^4,O_JIAN^5,Above
+R,⿱^4,⿹^6,Below
+R,⿹^6,RIGHT_GOU^7,Right_up_surround
+R,⿹^6,5^8,Inside

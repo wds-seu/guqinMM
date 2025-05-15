@@ -1,0 +1,2 @@
+id	text	w	h
+wushen_jzp/Music/images/wushenqinpu_1_48.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '1']	28	44
