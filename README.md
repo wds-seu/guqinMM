@@ -1,4 +1,3 @@
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="Jianzipu MM"></a>
 <!--
@@ -97,6 +96,30 @@ Guqin music generation system is aim to generate music from JZP document. Since 
 2. JZP recognition model train: This model includes two parts, the JZP character sequence generation and JZP document generation.
 3. Guqin music model train.
 4. A system of our work and a novel evalutaion system for our work. The evalutaion system need consider both human side and computer science side.
+5. Expand the JZP dataset with more historical scores and diverse playing techniques.
+6. Implement real-time audio feedback for JZP interpretation accuracy.
+7. Develop a user interface for interactive learning of Guqin through JZP.
+
+<!-- PROJECT STRUCTURE -->
+## Project Structure
+
+The project consists of two main components:
+
+### guqin_jzp
+This component focuses on the Jianzipu (JZP) recognition and interpretation:
+- OCR system for recognizing JZP characters from historical scores
+- JZP representation format and parser
+- Character decomposition trees for accurate recognition
+- Annotation tools for creating training data
+
+### guqin_audio
+This component handles the audio generation from JZP notation:
+- Sound synthesis models for authentic Guqin timbres
+- Technique modeling for different playing styles
+- Expressive performance generation
+- Audio processing utilities specific to Guqin music
+
+Both components work together to create a complete pipeline from historical notation to performed music.
 
 <!-- CONTRIBUTING -->
 ## Contributing
