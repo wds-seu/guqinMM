@@ -3,8 +3,8 @@
 JZPNet is a deep learning project for Optical Music Recognition (OMR) of Jianzipu (减字谱), a tablature notation for the Chinese musical instrument Guqin. It utilizes PyTorch Lightning for training and evaluation.
 
 ## Project Structure
-
-dataset/              # Raw dataset files (images, annotations)
+```
+dataset/              # Raw dataset files (images annotations)
 ├── dataset.json      # Main dataset annotations
 ├── edge_dict.txt     # Vocabulary for graph edges
 ├── metadata.txt      # General metadata
@@ -41,6 +41,7 @@ JZPNet/
 │   └── utils.py      # Model utilities
 └── preprocess/       # Scripts for data preprocessing and visualization
     └── get_string.py # Script to visualize model prediction on a single image
+```
 
 ## Setup
 
