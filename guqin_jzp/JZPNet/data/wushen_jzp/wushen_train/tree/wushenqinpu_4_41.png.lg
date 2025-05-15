@@ -1,0 +1,9 @@
+O,⿸^2,⿸,O
+O,RIGHT_LI^3,RIGHT_LI,OLus
+O,⿱^4,⿱,OI
+O,5^5,5,OIA
+O,4^6,4,OIB
+R,⿸^2,RIGHT_LI^3,Left_up_surround
+R,⿸^2,⿱^4,Inside
+R,⿱^4,5^5,Above
+R,⿱^4,4^6,Below

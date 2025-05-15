@@ -1,0 +1,9 @@
+O,⿱^2,⿱,O
+O,9^3,9,OA
+O,⿹^4,⿹,OB
+O,RIGHT_DA^5,RIGHT_DA,OBRus
+O,3^6,3,OBI
+R,⿱^2,9^3,Above
+R,⿱^2,⿹^4,Below
+R,⿹^4,RIGHT_DA^5,Right_up_surround
+R,⿹^4,3^6,Inside

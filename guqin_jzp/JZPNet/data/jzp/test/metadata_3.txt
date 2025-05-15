@@ -1,0 +1,4 @@
+id	text	w	h
+wushen_jzp/Music/images/wushenqinpu_1_48.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '1']	28	44
+zyt_qingpu/Music/images/ziyuantang_105_131.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_CHUO', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '6']	50	41
+zyt_qingpu/Music/images/ziyuantang_104_23.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '5']	36	39

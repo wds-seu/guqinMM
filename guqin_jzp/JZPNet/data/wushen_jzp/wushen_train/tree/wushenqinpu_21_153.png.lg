@@ -1,0 +1,17 @@
+O,⿱^2,⿱,O
+O,⿰^3,⿰,OA
+O,LEFT_FINGER_MING^4,LEFT_FINGER_MING,OAL
+O,⿱^5,⿱,OAR
+O,10^6,10,OARA
+O,2^7,2,OARB
+O,⿹^8,⿹,OB
+O,RIGHT_GOU^9,RIGHT_GOU,OBRus
+O,3^10,3,OBI
+R,⿱^2,⿰^3,Above
+R,⿰^3,LEFT_FINGER_MING^4,Left
+R,⿰^3,⿱^5,Right
+R,⿱^5,10^6,Above
+R,⿱^5,2^7,Below
+R,⿱^2,⿹^8,Below
+R,⿹^8,RIGHT_GOU^9,Right_up_surround
+R,⿹^8,3^10,Inside

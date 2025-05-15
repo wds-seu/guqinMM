@@ -1,0 +1,214 @@
+id	text	w	h
+./images/wushen_1_8.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '5', '⿺', 'RIGHT_TIAO', '6']	36	46
+./images/wushen_1_10.png	['Music', '⿱', '⿰', 'TECHNIQUE_FAN_YIN', '7', '⿹', 'RIGHT_GOU', '4']	28	42
+./images/wushen_1_11.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', '⿺', 'RIGHT_TIAO', '6']	36	44
+./images/wushen_1_12.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '2']	26	44
+./images/wushen_1_13.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿺', 'RIGHT_TIAO', '4']	46	43
+./images/wushen_1_14.png	['Music', '⿹', 'RIGHT_GOU', '3']	30	42
+./images/wushen_1_15.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿺', 'RIGHT_TIAO', '6']	34	42
+./images/wushen_1_16.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', '⿹', 'RIGHT_GOU', '4']	34	44
+./images/wushen_1_17.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '7', '⿺', 'RIGHT_TIAO', '7']	44	54
+./images/wushen_1_18.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '7', '⿹', 'RIGHT_GOU', '4']	34	50
+./images/wushen_1_19.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿺', 'RIGHT_TIAO', '6']	42	46
+./images/wushen_1_21.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '7', '⿹', 'RIGHT_GOU', '5']	34	50
+./images/wushen_1_23.png	['Music', '⿱', 'RIGHT_GUN', '1']	36	44
+./images/wushen_1_24.png	['Music', '⿱', 'RIGHT_BI', '1']	38	40
+./images/wushen_1_25.png	['Music', '⿱', 'RIGHT_MO', '⿺', 'RIGHT_TIAO', '4']	40	48
+./images/wushen_1_27.png	['Music', '⿱', '⿰', 'LEFT_FINGER_SHI', '7', '⿹', 'RIGHT_GOU', '3']	34	50
+./images/wushen_1_28.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', '⿺', 'RIGHT_TIAO', '6']	38	48
+./images/wushen_1_29.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '2']	32	44
+./images/wushen_1_30.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿺', 'RIGHT_TIAO', '4']	34	46
+./images/wushen_1_31.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '1']	34	50
+./images/wushen_1_32.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿺', 'RIGHT_TIAO', '3']	40	48
+./images/wushen_1_33.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '3']	32	46
+./images/wushen_1_37.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '1']	28	44
+./images/wushen_1_38.png	['Music', '⿸', 'RIGHT_BI', '6']	32	40
+./images/wushen_1_39.png	['Music', '⿹', 'RIGHT_GOU', '4']	30	42
+./images/wushen_1_41.png	['Music', '⿹', 'RIGHT_DA', '1']	30	38
+./images/wushen_1_42.png	['Music', '⿸', 'RIGHT_BI', '6']	36	44
+./images/wushen_1_43.png	['Music', '⿹', 'RIGHT_DA', '1']	36	43
+./images/wushen_1_44.png	['Music', '⿹', 'RIGHT_GOU', '4']	34	42
+./images/wushen_1_45.png	['Music', '⿸', 'RIGHT_LI', '⿱', '7', '6']	39	47
+./images/wushen_1_46.png	['Music', '⿹', 'RIGHT_GOU', '4']	32	40
+./images/wushen_1_47.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿺', 'RIGHT_TIAO', '6']	40	48
+./images/wushen_1_48.png	['Music', '⿸', 'RIGHT_LI', '⿱', '7', '6']	36	40
+./images/wushen_1_52.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '10', '⿹', 'RIGHT_GOU', '1']	36	50
+./images/wushen_1_53.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿸', 'RIGHT_BI', '6']	34	44
+./images/wushen_1_55.png	['Music', '⿹', 'RIGHT_DA', '1']	34	40
+./images/wushen_1_56.png	['Music', '⿸', 'RIGHT_BI', '6']	40	48
+./images/wushen_1_57.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿺', 'RIGHT_TIAO', '6']	40	48
+./images/wushen_1_58.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '4']	34	42
+./images/wushen_1_59.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿺', 'RIGHT_TIAO', '6']	38	42
+./images/wushen_1_61.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿺', 'RIGHT_TIAO', '4']	40	40
+./images/wushen_1_62.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '1']	32	55
+./images/wushen_1_63.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '3']	36	42
+./images/wushen_1_64.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '10', '⿹', 'RIGHT_GOU', '1']	34	52
+./images/wushen_1_65.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', '⿹', 'RIGHT_GOU', '4']	34	48
+./images/wushen_1_67.png	['Music', '⿱', '9', '⿹', 'RIGHT_GOU', '5']	34	40
+./images/wushen_1_68.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '7', '⿱', 'RIGHT_MO', '6']	34	46
+./images/wushen_1_69.png	['Music', '⿹', 'RIGHT_GOU', '5']	34	46
+./images/wushen_1_70.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '⿱', '7', '8', 'LEFT_DUIAN']	38	44
+./images/wushen_1_71.png	['Music', '⿱', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '5']	30	46
+./images/wushen_1_72.png	['Music', '⿹', 'RIGHT_GOU', '4']	32	40
+./images/wushen_1_74.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '5']	36	48
+./images/wushen_1_76.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '4']	32	53
+./images/wushen_1_77.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿺', 'RIGHT_TIAO', '6']	40	46
+./images/wushen_1_78.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿺', 'RIGHT_TIAO', '5']	42	46
+./images/wushen_1_79.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '4']	36	46
+./images/wushen_1_80.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿹', 'RIGHT_GOU', '5']	34	42
+./images/wushen_1_81.png	['Music', '⿱', '⿹', 'RIGHT_GOU', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '6']	30	52
+./images/wushen_1_83.png	['Music', '⿱', '⿹', 'RIGHT_GOU', 'RIGHT_GOUTI', '⿹', 'RIGHT_GOU', '6']	32	54
+./images/wushen_1_84.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', 'LEFT_DUIQI']	34	48
+./images/wushen_1_86.png	['Music', '⿰', 'LEFT_ZHU', '⿱', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '5']	38	46
+./images/wushen_1_88.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '7', '⿺', 'RIGHT_TIAO', '⿱', 'RIGHT_MO', '6']	36	52
+./images/wushen_1_90.png	['Music', '⿱', '⿹', 'RIGHT_GOU', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '5']	28	42
+./images/wushen_1_91.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '⿱', '7', '8', 'LEFT_DUIAN']	32	42
+./images/wushen_1_92.png	['Music', '⿹', 'RIGHT_GOU', '4']	30	40
+./images/wushen_1_94.png	['Music', '⿱', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '5']	32	48
+./images/wushen_1_95.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '6']	40	48
+./images/wushen_1_96.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '4']	36	48
+./images/wushen_1_97.png	['Music', '⿱', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '4']	28	44
+./images/wushen_1_99.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '10', '⿹', 'RIGHT_DA', '1']	34	40
+./images/wushen_1_101.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '3']	36	42
+./images/wushen_1_102.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '10', '⿹', 'RIGHT_GOU', '1']	32	46
+./images/wushen_1_103.png	['Music', '⿱', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '1']	28	36
+./images/wushen_1_105.png	['Music', '⿹', 'RIGHT_GOU', '4']	30	44
+./images/wushen_1_107.png	['Music', '⿱', 'RIGHT_SUO', '5']	36	46
+./images/wushen_1_108.png	['Music', '⿹', 'RIGHT_GOU', '4']	30	44
+./images/wushen_1_110.png	['Music', '⿱', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '5']	30	42
+./images/wushen_1_114.png	['Music', '⿱', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '4']	32	54
+./images/wushen_1_115.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '1']	34	50
+./images/wushen_1_116.png	['Music', '⿸', 'RIGHT_BI', '6']	40	42
+./images/wushen_1_117.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '10', '⿱', '⿹', 'RIGHT_GOU', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '1']	30	48
+./images/wushen_1_118.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿱', '⿹', 'RIGHT_GOU', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '2']	26	40
+./images/wushen_1_120.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿱', 'RIGHT_MO', '3']	36	44
+./images/wushen_1_121.png	['Music', '⿹', 'RIGHT_GOU', '2']	30	42
+./images/wushen_1_122.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', 'LEFT_DUIQI']	34	46
+./images/wushen_1_123.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '10', '⿱', 'RIGHT_DA', '1']	34	44
+./images/wushen_1_126.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '⿱', '10', '3', '⿱', 'LEFT_CHUO', '⿹', 'RIGHT_GOU', '3']	40	52
+./images/wushen_1_129.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_WAI', '⿰', 'LEFT_ZHU', '⿱', '⿹', 'RIGHT_GOU', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '6']	38	50
+./images/wushen_1_131.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_DA', '1']	42	44
+./images/wushen_1_132.png	['Music', '⿸', 'RIGHT_BI', '6']	42	46
+./images/wushen_1_133.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '4']	40	50
+./images/wushen_1_134.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_DA', '2']	44	44
+./images/wushen_1_135.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '4']	32	54
+./images/wushen_1_136.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿺', 'RIGHT_TIAO', '6']	40	48
+./images/wushen_1_137.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', 'LEFT_WAI', '⿹', 'RIGHT_DA', '1']	42	46
+./images/wushen_1_139.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿱', 'RIGHT_MO', '3']	32	46
+./images/wushen_1_140.png	['Music', '⿹', 'RIGHT_GOU', '2']	30	48
+./images/wushen_1_141.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', 'LEFT_DUIQI']	32	44
+./images/wushen_1_142.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '10', '⿹', 'RIGHT_DA', '1']	34	46
+./images/wushen_1_144.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿺', 'RIGHT_TIAO', '⿱', 'RIGHT_MO', '6']	36	52
+./images/wushen_1_146.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '4']	40	46
+./images/wushen_1_147.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '1']	30	47
+./images/wushen_1_149.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '1']	30	46
+./images/wushen_1_151.png	['Music', '⿱', 'RIGHT_BACI', '1']	34	50
+./images/wushen_1_153.png	['Music', '⿱', '⿹', 'RIGHT_GOU', '1', '2']	35	48
+./images/wushen_1_154.png	['Music', '⿱', '⿹', 'RIGHT_GOU', '1', '2']	30	46
+./images/wushen_1_156.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', 'LEFT_DUIQI']	38	48
+./images/wushen_1_157.png	['Music', '⿱', '9', '⿹', 'RIGHT_GOU', '5']	34	44
+./images/wushen_1_159.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿱', 'RIGHT_MO', '6']	36	48
+./images/wushen_1_160.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '8', '⿺', 'RIGHT_TIAO', '6']	40	38
+./images/wushen_1_162.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '6']	38	44
+./images/wushen_1_163.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '4']	32	46
+./images/wushen_1_164.png	['Music', '⿳', '9', 'RIGHT_GUN', '5']	34	50
+./images/wushen_1_165.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿹', 'RIGHT_GOU', '3']	37	48
+./images/wushen_1_167.png	['Music', '⿱', 'RIGHT_MO', '5']	36	44
+./images/wushen_1_168.png	['Music', '⿱', '⿹', 'RIGHT_GOU', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '4']	30	46
+./images/wushen_1_169.png	['Music', '⿱', '⿰', 'LEFT_FINGER_WU', '10', 'LEFT_DUIAN']	36	44
+./images/wushen_1_170.png	['Music', '⿹', 'RIGHT_GOU', '3']	30	43
+./images/wushen_1_172.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿸', 'RIGHT_BI', '7']	36	46
+./images/wushen_1_175.png	['Music', '⿱', 'RIGHT_BA', '1']	39	49
+./images/wushen_1_176.png	['Music', '⿱', 'RIGHT_MO', '⿹', 'RIGHT_GOU', '4']	26	44
+./images/wushen_1_178.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', 'LEFT_WAI', '⿹', 'RIGHT_GOU', '1']	28	48
+./images/wushen_1_180.png	['Music', '⿸', 'RIGHT_LI', '⿱', '4', '5']	40	48
+./images/wushen_1_183.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', 'LEFT_WAI', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '1']	34	50
+./images/wushen_1_185.png	['Music', '⿱', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '2']	30	50
+./images/wushen_1_187.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '1']	34	48
+./images/wushen_1_188.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_WAI', '⿱', '⿹', 'RIGHT_GOU', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '2']	35	51
+./images/wushen_1_190.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '1']	32	46
+./images/wushen_1_191.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_WAI', '⿹', 'RIGHT_GOU', '2']	36	44
+./images/wushen_1_192.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '⿱', '10', '3', '⿹', 'RIGHT_GOU', '3']	37	55
+./images/wushen_1_193.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_WAI', '⿰', 'LEFT_ZHU', 'RIGHT_GOU', 'RIGHT_GOU', '4']	38	50
+./images/wushen_1_194.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '⿱', '10', '3', '⿱', 'LEFT_YINN', '⿹', 'RIGHT_GOU', '5']	38	54
+./images/wushen_1_195.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '2']	30	44
+./images/wushen_1_197.png	['Music', '⿱', 'RIGHT_TI', 'RIGHT_GOU', 'RIGHT_GOU', '2']	30	42
+./images/wushen_1_199.png	['Music', '⿸', 'RIGHT_LI', '5']	42	44
+./images/wushen_1_200.png	['Music', '⿱', '4', '3']	34	42
+./images/wushen_1_201.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '10', '⿹', 'RIGHT_GOU', '1']	36	52
+./images/wushen_1_202.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '6']	40	42
+./images/wushen_1_203.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '4']	36	50
+./images/wushen_1_204.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '6']	38	48
+./images/wushen_1_205.png	['Music', '⿳', '⿰', 'LEFT_FINGER_MING', 'LEFT_WAI', '⿹', 'RIGHT_GOU', 'RIGHT_TI', '⿹', 'RIGHT_GOU', '6']	30	54
+./images/wushen_1_207.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_WAI', '⿹', 'RIGHT_GOU', '3']	32	50
+./images/wushen_1_210.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_DA', '1']	34	44
+./images/wushen_1_212.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿹', 'RIGHT_GOU', '4']	38	51
+./images/wushen_1_213.png	['Music', '⿹', 'RIGHT_GOU', '3']	33	44
+./images/wushen_1_215.png	['Music', '⿱', '⿰', '10', '10', '⿺', 'RIGHT_TIAO', '7']	42	42
+./images/wushen_1_216.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '⿱', '10', '2', 'LEFT_DUIAN']	38	46
+./images/wushen_1_217.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', 'LEFT_WAI', '⿹', 'RIGHT_GOU', '6']	34	50
+./images/wushen_1_219.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿹', 'RIGHT_TIAO', '⿱', 'RIGHT_MO', '6']	38	44
+./images/wushen_1_221.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', 'LEFT_DUIAN']	38	48
+./images/wushen_1_222.png	['Music', '⿺', 'RIGHT_TIAO', '6']	40	46
+./images/wushen_1_223.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_GOU', '3']	32	50
+./images/wushen_1_225.png	['Music', '⿱', 'RIGHT_MO', '6']	37	48
+./images/wushen_1_226.png	['Music', '⿱', '⿹', 'RIGHT_GOU', 'O_JIAN', '⿹', 'RIGHT_GOU', '5']	33	50
+./images/wushen_1_227.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', 'LEFT_DUIAN']	44	50
+./images/wushen_1_228.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '4']	36	50
+./images/wushen_1_229.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '7']	38	48
+./images/wushen_1_230.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '5']	32	54
+./images/wushen_1_231.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '7']	36	44
+./images/wushen_1_232.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿹', 'RIGHT_GOU', '3']	34	52
+./images/wushen_1_234.png	['Music', '⿱', 'RIGHT_MO', '6']	32	44
+./images/wushen_1_237.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '4']	34	48
+./images/wushen_1_238.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿺', 'RIGHT_TIAO', '6']	40	42
+./images/wushen_1_239.png	['Music', '⿱', '⿰', 'LEFT_FINGER_SHI', '9', '⿹', 'RIGHT_GOU', '3']	34	46
+./images/wushen_1_240.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '7', '⿺', 'RIGHT_TIAO', '6']	42	48
+./images/wushen_1_241.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '7', '⿹', 'RIGHT_GOU', '1']	34	50
+./images/wushen_1_242.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '9', '⿹', 'RIGHT_GOU', '3']	32	48
+./images/wushen_1_243.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '7', '⿺', 'RIGHT_TIAO', '6']	40	46
+./images/wushen_1_244.png	['Music', '⿱', '⿹', 'RIGHT_GOU', 'O_JIAN', '⿹', 'RIGHT_GOU', '5']	30	52
+./images/wushen_1_245.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', 'LEFT_DUIAN']	40	48
+./images/wushen_1_246.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '4']	34	50
+./images/wushen_1_247.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '6']	36	46
+./images/wushen_1_248.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '2']	34	50
+./images/wushen_1_249.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '4']	38	44
+./images/wushen_1_250.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿹', 'RIGHT_GOU', '3']	38	50
+./images/wushen_1_251.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '6']	38	44
+./images/wushen_1_252.png	['Music', '⿱', '⿰', 'LEFT_FINGER_WU', '10', 'RIGHT_GOU']	35	47
+./images/wushen_1_253.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '4']	40	42
+./images/wushen_1_254.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '7', '⿹', 'RIGHT_DA', '1']	40	48
+./images/wushen_1_255.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '7', '⿹', 'RIGHT_GOU', '3']	34	54
+./images/wushen_1_256.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '5', '⿹', 'RIGHT_GOU', '3']	32	46
+./images/wushen_1_257.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '4', '⿺', 'RIGHT_TIAO', '6']	36	50
+./images/wushen_1_258.png	['Music', '⿱', '⿰', 'LEFT_FINGER_SHI', '4', '⿹', 'RIGHT_GOU', '1']	34	44
+./images/wushen_1_259.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '5', '⿹', 'RIGHT_GOU', '3']	32	52
+./images/wushen_1_260.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '4', '⿺', 'RIGHT_TIAO', '6']	42	54
+./images/wushen_1_261.png	['Music', '⿱', 'RIGHT_GUN', '1']	36	50
+./images/wushen_1_262.png	['Music', '⿱', 'RIGHT_BI', '1']	39	44
+./images/wushen_1_263.png	['Music', '⿺', 'RIGHT_TIAO', '⿱', 'RIGHT_MO', '6']	36	52
+./images/wushen_1_264.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿸', 'RIGHT_LI', '6']	34	46
+./images/wushen_1_266.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '2']	32	48
+./images/wushen_1_267.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '4']	40	46
+./images/wushen_1_268.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '2']	34	50
+./images/wushen_1_269.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '⿱', '10', '1', '⿰', 'LEFT_ZHU', '⿹', 'RIGHT_GOU', '3']	34	47
+./images/wushen_1_270.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '4']	34	48
+./images/wushen_1_273.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', 'LEFT_DUIAN']	42	44
+./images/wushen_1_274.png	['Music', '⿱', '⿰', 'LEFT_FINGER_SHI', '4', '⿹', 'RIGHT_GOU', '4']	34	52
+./images/wushen_1_275.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '5', '⿺', 'RIGHT_TIAO', '6']	42	52
+./images/wushen_1_276.png	['Music', '⿱', '⿰', 'LEFT_FINGER_SHI', '4', '⿹', 'RIGHT_GOU', '2']	34	48
+./images/wushen_1_277.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '5', '⿺', 'RIGHT_TIAO', '4']	36	44
+./images/wushen_1_278.png	['Music', '⿱', '⿰', 'LEFT_FINGER_SHI', '4', '⿹', 'RIGHT_GOU', '1']	32	44
+./images/wushen_1_279.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '5', '⿺', 'RIGHT_TIAO', '3']	38	44
+./images/wushen_1_280.png	['Music', '⿱', '⿰', 'LEFT_FINGER_ZHONG', '5', '⿹', 'RIGHT_GOU', '1']	30	48
+./images/wushen_1_281.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '7', '⿺', 'RIGHT_TIAO', '4']	37	44
+./images/wushen_1_282.png	['Music', '⿹', 'RIGHT_GOU', '5']	34	44
+./images/wushen_1_284.png	['Music', '⿹', 'RIGHT_GOU', '4']	32	48
+./images/wushen_1_285.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '6']	43	48
+./images/wushen_1_286.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿹', 'RIGHT_DA', '1']	38	48
+./images/wushen_1_287.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '10', '⿹', 'RIGHT_GOU', '4']	32	50
+./images/wushen_1_288.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '6']	42	46
+./images/wushen_1_289.png	['Music', '⿱', '⿰', 'LEFT_FINGER_MING', '7', '⿹', 'RIGHT_DA', '2']	36	50
+./images/wushen_1_290.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '4']	36	42
+./images/wushen_1_291.png	['Music', '⿱', '⿰', 'LEFT_FINGER_DA', '9', '⿹', 'RIGHT_GOU', '3']	36	48
+./images/wushen_1_292.png	['Music', '⿱', 'TECHNIQUE_SAN_YIN', '⿺', 'RIGHT_TIAO', '6']	42	46

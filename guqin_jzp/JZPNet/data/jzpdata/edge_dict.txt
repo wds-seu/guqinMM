@@ -1,0 +1,9 @@
+Right
+Left
+Middle
+Above
+Below
+Inside
+Left_down_surround
+Right_up_surround
+Left_up_surround

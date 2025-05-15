@@ -1,0 +1,13 @@
+O,⿱^2,⿱,O
+O,⿰^3,⿰,OA
+O,LEFT_FINGER_SHI^4,LEFT_FINGER_SHI,OAL
+O,7^5,7,OAR
+O,⿹^6,⿹,OB
+O,RIGHT_DA^7,RIGHT_DA,OBRus
+O,1^8,1,OBI
+R,⿱^2,⿰^3,Above
+R,⿰^3,LEFT_FINGER_SHI^4,Left
+R,⿰^3,7^5,Right
+R,⿱^2,⿹^6,Below
+R,⿹^6,RIGHT_DA^7,Right_up_surround
+R,⿹^6,1^8,Inside

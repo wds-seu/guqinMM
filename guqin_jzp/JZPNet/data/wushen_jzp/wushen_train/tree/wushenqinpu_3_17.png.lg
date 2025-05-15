@@ -1,0 +1,5 @@
+O,⿱^2,⿱,O
+O,7^3,7,OA
+O,LEFT_FINGER_DA^4,LEFT_FINGER_DA,OB
+R,⿱^2,7^3,Above
+R,⿱^2,LEFT_FINGER_DA^4,Below

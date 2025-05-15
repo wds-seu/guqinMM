@@ -1,0 +1,15 @@
+O,⿳^2,⿳,O
+O,⿰^3,⿰,OA
+O,10^4,10,OAL
+O,7^5,7,OAR
+O,O_JIAN^6,O_JIAN,OM
+O,⿹^7,⿹,OB
+O,RIGHT_GOU^8,RIGHT_GOU,OBRus
+O,7^9,7,OBI
+R,⿳^2,⿰^3,Above
+R,⿰^3,10^4,Left
+R,⿰^3,7^5,Right
+R,⿳^2,O_JIAN^6,Middle
+R,⿳^2,⿹^7,Below
+R,⿹^7,RIGHT_GOU^8,Right_up_surround
+R,⿹^7,7^9,Inside

@@ -1,0 +1,5 @@
+O,⿰^2,⿰,O
+O,LEFT_ZHU^3,LEFT_ZHU,OL
+O,5^4,5,OR
+R,⿰^2,LEFT_ZHU^3,Left
+R,⿰^2,5^4,Right

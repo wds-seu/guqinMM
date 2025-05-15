@@ -1,0 +1,13 @@
+O,⿺^2,⿺,O
+O,RIGHT_TIAO^3,RIGHT_TIAO,ORds
+O,⿱^4,⿱,OI
+O,⿰^5,⿰,OIA
+O,10^6,10,OIAL
+O,10^7,10,OIAR
+O,7^8,7,OIB
+R,⿺^2,RIGHT_TIAO^3,Left_down_surround
+R,⿺^2,⿱^4,Inside
+R,⿱^4,⿰^5,Above
+R,⿰^5,10^6,Left
+R,⿰^5,10^7,Right
+R,⿱^4,7^8,Below

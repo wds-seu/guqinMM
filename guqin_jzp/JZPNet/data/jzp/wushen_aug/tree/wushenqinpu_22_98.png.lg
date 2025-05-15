@@ -1,0 +1,15 @@
+O,⿳^2,⿳,O
+O,⿰^3,⿰,OA
+O,LEFT_FINGER_DA^4,LEFT_FINGER_DA,OAL
+O,⿱^5,⿱,OAR
+O,6^6,6,OARA
+O,7^7,7,OARB
+O,RIGHT_MO^8,RIGHT_MO,OM
+O,7^9,7,OB
+R,⿳^2,⿰^3,Above
+R,⿰^3,LEFT_FINGER_DA^4,Left
+R,⿰^3,⿱^5,Right
+R,⿱^5,6^6,Above
+R,⿱^5,7^7,Below
+R,⿳^2,RIGHT_MO^8,Middle
+R,⿳^2,7^9,Below

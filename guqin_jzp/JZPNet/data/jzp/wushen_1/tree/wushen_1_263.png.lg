@@ -1,0 +1,9 @@
+O,⿺^2,⿺,O
+O,RIGHT_TIAO^3,RIGHT_TIAO,ORds
+O,⿱^4,⿱,OI
+O,RIGHT_MO^5,RIGHT_MO,OIA
+O,6^6,6,OIB
+R,⿺^2,RIGHT_TIAO^3,Left_down_surround
+R,⿺^2,⿱^4,Inside
+R,⿱^4,RIGHT_MO^5,Above
+R,⿱^4,6^6,Below

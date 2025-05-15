@@ -1,0 +1,20 @@
+# Core ML/Audio Libraries
+# Ensure these versions are compatible with your CUDA toolkit.
+# For specific PyTorch/Torchaudio versions, visit: https://pytorch.org/
+torch>=2.0.0
+torchaudio>=2.0.0
+transformers>=4.30.0 # For Encodec support and other transformer models
+auraloss>=0.4.0 # For STFT-based losses
+
+# Utilities
+tqdm>=4.60.0 # For progress bars
+tensorboard>=2.10.0 # For experiment logging and visualization
+
+# Example Conda Environment Setup:
+# conda create -n guqin_env python=3.10
+# conda activate guqin_env
+#
+# Installation with pip:
+# pip install torch torchaudio --index-url https://download.pytorch.org/whl/cuXXX # Replace cuXXX with your CUDA version e.g., cu118 or cu121
+# pip install -r requirements.txt
+

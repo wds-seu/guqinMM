@@ -1,0 +1,5 @@
+O,⿺^2,⿺,O
+O,RIGHT_TIAO^3,RIGHT_TIAO,ORds
+O,6^4,6,OI
+R,⿺^2,RIGHT_TIAO^3,Left_down_surround
+R,⿺^2,6^4,Inside

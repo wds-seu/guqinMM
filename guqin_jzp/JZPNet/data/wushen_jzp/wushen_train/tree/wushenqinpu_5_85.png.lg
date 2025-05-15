@@ -1,0 +1,7 @@
+O,⿳^2,⿳,O
+O,LEFT_SHANG^3,LEFT_SHANG,OA
+O,1^4,1,OM
+O,6^5,6,OB
+R,⿳^2,LEFT_SHANG^3,Above
+R,⿳^2,1^4,Middle
+R,⿳^2,6^5,Below

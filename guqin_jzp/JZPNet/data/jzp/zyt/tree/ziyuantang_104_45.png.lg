@@ -1,0 +1,9 @@
+O,⿱^2,⿱,O
+O,LEFT_JIU^3,LEFT_JIU,OA
+O,⿺^4,⿺,OB
+O,RIGHT_TIAO^5,RIGHT_TIAO,OBRds
+O,2^6,2,OBI
+R,⿱^2,LEFT_JIU^3,Above
+R,⿱^2,⿺^4,Below
+R,⿺^4,RIGHT_TIAO^5,Left_down_surround
+R,⿺^4,2^6,Inside
