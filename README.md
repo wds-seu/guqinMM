@@ -64,7 +64,7 @@ pip install -r requirements.txt
 * [Clip](https://github.com/openai/CLIP)
 * [FudanOCR](https://github.com/FudanVI/FudanOCR/)
 * [Japanese OCR]()
-3. Basic NLP Method: Transformer series model.
+
 
 ### Jianzipu_dataset
 We have published a jianzipu dataset in `datasets` folder. This dataset includes basic jianzipu finger technique collection and a jianzi character collection.  It is a image-notation dataset. Each image has its own decomposed tree notation. We proposed a new jianzi character decomposed tree to help us on the next Jianzipu OCR method. 
@@ -84,21 +84,6 @@ We have published a jianzipu dataset in `datasets` folder. This dataset includes
 
 #### Guqin music generation
 Guqin music generation system is aim to generate music from JZP document. Since the JZP notation doesn't include some music features, we need train our model with both document and music. The datasets includes two parts: the music parts are collected from Guqin exam videos and online video resources, the sequence parts are collected from our JZP OCR parts.
-
-0. basic sound generation model: [VAE](https://github.com/AntixK/PyTorch-VAE), VQVAE, [Diffusion](https://github.com/CompVis/stable-diffusion), [Sound Stream](https://github.com/wesbz/SoundStream)... 
-1. Symbolic Music Generation: [Muzic](https://github.com/microsoft/muzic/tree/mainhttps://github.com/microsoft/muzic/tree/main)
-2. Music generation from text: [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
-
-
-<!--Todo List -->
-## Todo List
-1. Construct dataset: Our dataset need both JZP images and JZP representation list. The images comes from the Wushen scores and JZP representation comes from the gui-tool
-2. JZP recognition model train: This model includes two parts, the JZP character sequence generation and JZP document generation.
-3. Guqin music model train.
-4. A system of our work and a novel evalutaion system for our work. The evalutaion system need consider both human side and computer science side.
-5. Expand the JZP dataset with more historical scores and diverse playing techniques.
-6. Implement real-time audio feedback for JZP interpretation accuracy.
-7. Develop a user interface for interactive learning of Guqin through JZP.
 
 <!-- PROJECT STRUCTURE -->
 ## Project Structure
@@ -120,6 +105,16 @@ This component handles the audio generation from JZP notation:
 - Audio processing utilities specific to Guqin music
 
 Both components work together to create a complete pipeline from historical notation to performed music.
+
+<!--Todo List -->
+## Todo List
+1. Construct dataset: Our dataset need both JZP images and JZP representation list. The images comes from the Wushen scores and JZP representation comes from the gui-tool
+2. JZP recognition model train: This model includes two parts, the JZP character sequence generation and JZP document generation.
+3. Guqin music model train.
+4. A system of our work and a novel evalutaion system for our work. The evalutaion system need consider both human side and computer science side.
+5. Expand the JZP dataset with more historical scores and diverse playing techniques.
+6. Implement real-time audio feedback for JZP interpretation accuracy.
+7. Develop a user interface for interactive learning of Guqin through JZP.
 
 <!-- CONTRIBUTING -->
 ## Contributing
